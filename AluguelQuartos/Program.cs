@@ -39,6 +39,8 @@ namespace AluguelQuartos
                 }
                 
             }
+
+            Console.WriteLine();
         }
     }
 }
